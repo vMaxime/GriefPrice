@@ -1,0 +1,19 @@
+name: GriefPrice
+version: 1.0
+author: Maximouz
+main: fr.maximouz.griefprice.GriefPrice
+api-version: 1.13
+depend: [Netherboard]
+commands:
+  griefprice:
+    aliases:
+      - griefprize
+  vanish:
+    aliases:
+      - v
+  op:
+    aliases:
+      - deop
+  shop:
+    aliases:
+      - boutique
